@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "backend": {
+      "type": "rust",
+      "main": "src/lib.rs"
+    }
+  }
+}
